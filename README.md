@@ -82,6 +82,8 @@ Each condition adds 20 points to the password score.
 This is an educational frontend project. Generated passwords are currently stored in plain text in browser LocalStorage. Do not use real or sensitive passwords with this application.
 
 ## Author
+**Gosala Sakunthala**
+Frontend Developer | Web Development Enthusiast
 
 Created as a Frontend Web Development Project using HTML, CSS, and JavaScript.
 
