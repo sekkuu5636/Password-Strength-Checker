@@ -77,10 +77,6 @@ Each condition adds 20 points to the password score.
 - Improve voice input error handling.
 - Improve password history security.
 
-## Security Note
-
-This is an educational frontend project. Generated passwords are currently stored in plain text in browser LocalStorage. Do not use real or sensitive passwords with this application.
-
 ## Author
 **Gosala Sakunthala**
 
