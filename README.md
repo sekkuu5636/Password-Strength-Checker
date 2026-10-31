@@ -85,6 +85,7 @@ This is an educational frontend project. Generated passwords are currently store
 **Gosala Sakunthala**
 
 Frontend Developer | Web Development Enthusiast
+
 Created as a Frontend Web Development Project using HTML, CSS, and JavaScript.
 
 ## License
